@@ -1,0 +1,61 @@
+#header{
+    text-align: center;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+}
+
+
+#s1{
+    color: crimson;
+    background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#s2{
+    color: blue;
+    background-color: chocolate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+#s3{
+    color: darkorange;
+    background-color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#c1{
+    color: darkslategray;
+    background-color: chocolate;
+    font-size:200%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#c2{
+    color: brown;
+    background-color: blue;
+    font-size: x-large;
+}
+
+#c3{
+    color: blue;
+    background-color: cyan;
+    font-size: smaller;
+}
+
+#si1{
+    color: brown;
+    background-color: blueviolet;
+    text-align: end;
+}
+
+#footer{
+    color: blue;
+    background-color: blueviolet;
+    font-size: 250%;
+}
